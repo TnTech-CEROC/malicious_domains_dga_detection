@@ -6,7 +6,7 @@ In this study, we develop a suite of effective detection mechanisms for both tra
 The work has been published at the [8th IEEE International Conference on Cyber Security and Cloud Computing (IEEE CSCloud 2021)](http://www.cloud-conf.net/cscloud/2021/cscloud/index.html).
 
 ### Citing this work
-If you use our implementation for academic research, you are highly encouraged to cite [our paper]().
+If you use our implementation for academic research, you are highly encouraged to cite [our paper](https://ieeexplore.ieee.org/document/9492239).
 
 
 ```
@@ -14,6 +14,7 @@ If you use our implementation for academic research, you are highly encouraged t
   title={Domain Generating Algorithm based Malicious Domains Detection},
   author={Ayub, Md Ahsan and Smith, Steven and Siraj, Ambareen and Tinker, Paul},
   booktitle={2021 8th IEEE International Conference on Cyber Security and Cloud Computing (CSCloud)/2021 7th IEEE International Conference on Edge Computing and Scalable Cloud (EdgeCom)},
+  pages={77--82},
   year={2021},
   organization={IEEE}
 }
